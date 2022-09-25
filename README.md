@@ -24,7 +24,7 @@ This dataset includes 23486 rows and 10 feature variables. Each row corresponds 
 
 ![Dataset Head](https://github.com/javadfarshchi/Natural-Language-Processing-E-Commerce-Review/blob/main/Dataset_Head.PNG)
 
-The result of our prediction model and the evaluation can be found in the picture below. 
+The result of our prediction model and the evaluation can be found in the picture below. We can observe that the model has predicted the reviews categories with **high precision.**
 
 ![Dataset Head](https://github.com/javadfarshchi/Natural-Language-Processing-E-Commerce-Review/blob/main/Prediction_Evaluation.PNG)
 
