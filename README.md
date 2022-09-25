@@ -1,6 +1,6 @@
 # Natural Language Processing Project for E-Commerce Users Reviews and Ratings
 
-In this NLP project we will be attempt to classify Women's E-Commerce Clothing Reviews into 1 star or 5 star categories based off the text content in the reviews. We will utilize the pipeline methods with Multinomial Naive Bayes.
+In this NLP project we will be attempt to classify Women's E-Commerce Clothing Reviews into 1 star or 5 star categories based off the text content in the reviews. We will utilize the pipeline methods with Multinomial Naive Bayes. The complete EDA and modeling can be found in the notebook [here](https://github.com/javadfarshchi/Natural-Language-Processing-E-Commerce-Review/blob/main/NLP_Project_E_Commerce.ipynb)).
 
 Each observation in this dataset is a review of a particular product by a particular user.
 
@@ -23,3 +23,8 @@ This dataset includes 23486 rows and 10 feature variables. Each row corresponds 
 * Class Name: Categorical name of the product class name.
 
 ![Dataset Head](https://github.com/javadfarshchi/Natural-Language-Processing-E-Commerce-Review/blob/main/Dataset_Head.PNG)
+
+The result of our prediction model and the evaluation can be found in the picture below. 
+
+![Dataset Head](https://github.com/javadfarshchi/Natural-Language-Processing-E-Commerce-Review/blob/main/Prediction_Evaluation.PNG)
+
